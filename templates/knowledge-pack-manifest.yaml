@@ -1,0 +1,33 @@
+title:
+version: 0.1
+updated:
+steward:
+contact:
+
+description:
+
+sources:
+  - title:
+    url:
+    file:
+    license_or_permission:
+    notes:
+
+allowed_uses:
+  - local search
+  - summarization
+  - question answering
+
+not_allowed:
+  - training without review
+  - public sharing of private material
+
+privacy:
+  contains_personal_data: false
+  contains_sensitive_data: false
+  review_notes:
+
+quality_notes:
+  known_gaps:
+  update_cadence:
+

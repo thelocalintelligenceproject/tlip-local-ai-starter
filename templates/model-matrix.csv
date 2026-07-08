@@ -1,0 +1,10 @@
+last_updated,model_family,model_name,size,quantization,runner,official_link,license_access_notes,open_status,tested_device,rough_minimum_hardware,recommended_hardware,beginner_fit,notes
+2026-07-08,Llama,,,,https://www.llama.com/llama-downloads/,"Check Meta terms for the exact model.",open-weight varies,,,,
+2026-07-08,Gemma,,,,https://deepmind.google/models/gemma/,"Check Google terms for the exact model.",open-weight varies,,,,
+2026-07-08,OpenAI gpt-oss,,,,https://openai.com/index/introducing-gpt-oss/,"Check OpenAI gpt-oss license and model card.",open-weight,,,,
+2026-07-08,Qwen,,,,https://huggingface.co/Qwen,"Check exact model license.",open-weight varies,,,,
+2026-07-08,Mistral / Mixtral,,,,https://huggingface.co/mistralai,"Check exact model license.",open-weight varies,,,,
+2026-07-08,DeepSeek,,,,https://huggingface.co/deepseek-ai,"Check exact model license.",open-weight varies,,,,
+2026-07-08,Grok / xAI,,,,https://x.ai/news/grok-os,"Research/branch-host scale; check xAI terms.",open-weight varies,,,,
+2026-07-08,Phi / small models,,,,https://huggingface.co/microsoft,"Check exact model license.",open-weight varies,,,,
+
