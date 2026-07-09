@@ -46,14 +46,12 @@ local AI workshop.
 
 ## Model And Runner Links
 
-| Category | Links |
-| --- | --- |
-| Runners | [Ollama](https://ollama.com/download), [LM Studio](https://lmstudio.ai/docs/app/basics/download-model), [llama.cpp](https://github.com/ggml-org/llama.cpp) |
-| Model library | [Ollama Library](https://ollama.com/library) |
-| Llama | [Official access](https://www.llama.com/llama-downloads/), [Hugging Face](https://huggingface.co/meta-llama) |
-| Gemma | [Official page](https://deepmind.google/models/gemma/), [Hugging Face collection](https://huggingface.co/collections/Gemmaverse/google-variants) |
-| OpenAI gpt-oss | [Official page](https://openai.com/index/introducing-gpt-oss/), [Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [Ollama](https://ollama.com/library/gpt-oss) |
-| Grok / xAI | [Official open release](https://x.ai/news/grok-os), [Grok-1 GitHub](https://github.com/xai-org/grok-1), [Grok-2 Hugging Face](https://huggingface.co/xai-org/grok-2) |
+Runners: [Ollama](https://ollama.com/download),
+[LM Studio](https://lmstudio.ai/docs/app/basics/download-model),
+[llama.cpp](https://github.com/ggml-org/llama.cpp).
+
+For model families, download links, and hardware tiers, see the
+[Living Model Matrix](docs/02-model-matrix.md).
 
 ## Important Distinction
 
@@ -62,12 +60,9 @@ available while still having license limits, missing training data, gated
 access, or special terms. Always check the official model page and license
 before recommending a model to someone else.
 
-## Visual Guides
-
-| Guide | Image |
-| --- | --- |
-| Five parts of running local AI | [local-ai-stack-infographic.png](assets/infographics/local-ai-stack-infographic.png) |
-| Frontier vs open-weight models | [frontier-vs-open-weight-infographic.png](assets/infographics/frontier-vs-open-weight-infographic.png) |
+<p align="center">
+  <img src="assets/infographics/frontier-vs-open-weight-infographic.png" alt="Frontier vs open-weight models" width="720">
+</p>
 
 ## Project Status
 
