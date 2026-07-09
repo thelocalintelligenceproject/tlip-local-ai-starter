@@ -1,5 +1,7 @@
 # 03 - Knowledge Packs / Memory Import
 
+> Status: coming soon. This is a draft outline, not the official TLIP guide yet.
+
 For most community use, add documents before fine-tuning.
 
 A knowledge pack is a folder of source material plus a manifest that explains
@@ -37,4 +39,3 @@ If a local search/RAG setup solves the problem, do not fine-tune yet.
 
 Fine-tuning changes model behavior. A knowledge pack is easier to inspect,
 correct, remove, and update.
-

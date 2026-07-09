@@ -19,7 +19,7 @@ local AI workshop.
 | Understand the whole flow | [00 - Start Here](docs/00-start-here.md) |
 | Install a runner and run one model | [01 - First Local Model](docs/01-first-local-model.md) |
 | Compare open-weight/local model families | [02 - Living Model Matrix](docs/02-model-matrix.md) |
-| Add my own files or branch documents | [03 - Knowledge Packs / Memory Import](docs/03-knowledge-packs.md) |
+| Add my own files or branch documents | Coming soon |
 | Build an AI companion | Coming soon |
 | Build a simple tool-using agent | Coming soon |
 | Fine-tune responsibly | Coming soon |
