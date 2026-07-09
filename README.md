@@ -68,8 +68,6 @@ before recommending a model to someone else.
 | --- | --- |
 | Five parts of running local AI | [local-ai-stack-infographic.png](assets/infographics/local-ai-stack-infographic.png) |
 | Frontier vs open-weight models | [frontier-vs-open-weight-infographic.png](assets/infographics/frontier-vs-open-weight-infographic.png) |
-| Myceli-net V1 | [myceli-net-v1-infographic.png](assets/infographics/myceli-net-v1-infographic.png) |
-| Starter stack help request | [tlip-help-starter-stack-infographic.png](assets/infographics/tlip-help-starter-stack-infographic.png) |
 
 ## Project Status
 
