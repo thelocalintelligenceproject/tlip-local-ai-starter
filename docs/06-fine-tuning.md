@@ -1,5 +1,7 @@
 # 06 - Responsible Fine-Tuning
 
+> Status: coming soon. This is a draft outline, not the official TLIP guide yet.
+
 Fine-tuning is phase two, not the default first step.
 
 Use fine-tuning only when:
@@ -31,4 +33,3 @@ Use fine-tuning only when:
 ## Reference
 
 Hugging Face PEFT docs: https://huggingface.co/docs/peft/index
-

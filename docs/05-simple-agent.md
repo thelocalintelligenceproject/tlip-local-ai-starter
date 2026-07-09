@@ -1,5 +1,7 @@
 # 05 - Build a Simple Agent
 
+> Status: coming soon. This is a draft outline, not the official TLIP guide yet.
+
 An agent is a model with tools. Tools should be added slowly.
 
 ## First Agent Rule
@@ -35,4 +37,3 @@ should prove that it can inspect information and make a clear recommendation.
 - automatic file deletion,
 - wallet or payment access,
 - anything using private data without review.
-

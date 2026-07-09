@@ -20,9 +20,9 @@ local AI workshop.
 | Install a runner and run one model | [01 - First Local Model](docs/01-first-local-model.md) |
 | Compare open-weight/local model families | [02 - Living Model Matrix](docs/02-model-matrix.md) |
 | Add my own files or branch documents | [03 - Knowledge Packs / Memory Import](docs/03-knowledge-packs.md) |
-| Build an AI companion | [04 - Build an AI Companion](docs/04-ai-companion.md) |
-| Build a simple tool-using agent | [05 - Build a Simple Agent](docs/05-simple-agent.md) |
-| Fine-tune responsibly | [06 - Responsible Fine-Tuning](docs/06-fine-tuning.md) |
+| Build an AI companion | Coming soon |
+| Build a simple tool-using agent | Coming soon |
+| Fine-tune responsibly | Coming soon |
 
 ## The First-Run Path
 

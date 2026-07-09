@@ -1,5 +1,7 @@
 # 04 - Build an AI Companion
 
+> Status: coming soon. This is a draft outline, not the official TLIP guide yet.
+
 An AI companion is not just a model with a cute name. It needs boundaries,
 memory rules, and a clear role.
 
@@ -30,4 +32,3 @@ memory rules, and a clear role.
 - Do not hide when the companion is an AI system.
 - Do not train or store private community data without explicit permission.
 - Keep logs and memory editable by the person or group using it.
-
