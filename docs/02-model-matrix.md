@@ -1,6 +1,6 @@
 # 02 - Living Model Matrix
 
-Updated on our last model-list pass: July 8, 2026.
+Updated on our last model-list pass: July 10, 2026.
 
 *We do our best to keep the models updated, but please always double check the
 official model page, license, and runner docs before downloading or recommending
@@ -30,6 +30,7 @@ length, runner, GPU support, operating system, and the model itself.
 | Qwen | [Qwen on Hugging Face](https://huggingface.co/Qwen), [Qwen docs](https://qwenlm.github.io/) | 0.6B-8B tier | Broad family with chat, coder, embedding, vision-language, and reasoning variants. |
 | Mistral / Mixtral | [Mistral on Hugging Face](https://huggingface.co/mistralai), [Mistral docs](https://docs.mistral.ai/) | 7B-12B tier | Useful family, but hardware needs vary by model and quantization. |
 | DeepSeek | [DeepSeek on Hugging Face](https://huggingface.co/deepseek-ai) | 1.5B-8B tier | Track small distilled models separately from very large MoE releases. |
+| GLM-5.2 / Z.ai | [Official release](https://z.ai/blog/glm-5.2), [Hugging Face](https://huggingface.co/zai-org/GLM-5.2), [GitHub](https://github.com/zai-org/GLM-5) | Research cluster / API | MIT-licensed 744B-total, 40B-active MoE model with a 1M-token context. The official BF16 checkpoint is about 1.51 TB, so this is not a normal laptop or single-GPU model. |
 | Grok / xAI | [Official open release](https://x.ai/news/grok-os), [Grok-1 GitHub](https://github.com/xai-org/grok-1), [Grok-2 on Hugging Face](https://huggingface.co/xai-org/grok-2) | Branch host / research | Important open-weight lineage, not beginner laptop hardware. |
 | Phi / small models | [Microsoft models on Hugging Face](https://huggingface.co/microsoft) | 2B-4B tier | Useful for older hardware and teaching the workflow before scaling. |
 
@@ -49,4 +50,3 @@ Use `templates/model-matrix.csv` or a GitHub issue to track:
 - rough minimum hardware,
 - recommended hardware,
 - and beginner fit.
-
